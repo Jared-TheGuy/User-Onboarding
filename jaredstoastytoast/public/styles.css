@@ -1,0 +1,35 @@
+.topBar {
+    display: flex;
+    width: 100%;
+    border: 1px solid rgb(73, 72, 72);
+    justify-content: center;
+    background-color: rgb(139, 148, 165);
+}
+
+.form {
+    width: 20%;
+    height: 100rem;
+    border: 1px solid rgb(69, 69, 73);
+    background-color: rgb(136, 137, 138);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cardHolder {
+    width: 80%;
+    height: 100rem;
+}
+
+.contentContainer {
+    display: flex;
+}
+
+form {
+    margin-top: 10%;
+    margin-left: 6%;
+}
+.card {
+    width: 27%;
+    margin: 2%;
+    border: 1px solid black;
+}
